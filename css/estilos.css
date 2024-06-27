@@ -2,16 +2,7 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
-    font-family: "Courier";
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
-}
-#container
-=======
-    font-family: "Arial";
-    font-size: 16px;
+    font-family: Courier;
     margin: 0;
     padding: 0;
 }
@@ -30,8 +21,7 @@ body
     font-weight:400;
     font-size:.8em;
 }
-#container 
->>>>>>> cabecera
+#container
 {
     width: 70%;
     padding: 1em;
@@ -44,11 +34,9 @@ body
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
 
-=======
+
 #post 
 {
     padding:1em;
 }
->>>>>>> cabecera
