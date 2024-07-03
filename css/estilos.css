@@ -1,11 +1,8 @@
-body
-{
-<<<<<<< HEAD
-    color: #333; 
-=======
+#body
+
+{ 
     background: #1e1f24;
     color: #333;
->>>>>>> header
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -51,9 +48,6 @@ body
 }
 #post
 {
-<<<<<<< HEAD
-=======
     background: white;
->>>>>>> header
     padding: 1em;
 }
